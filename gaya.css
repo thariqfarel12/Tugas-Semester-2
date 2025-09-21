@@ -1,0 +1,39 @@
+    body {
+        font-family: Arial, sans-serif;
+        line-height: 1.6;
+        margin: 0;
+        padding: 0;
+        background-color: antiquewhite;
+    }
+
+    .header {
+        text-align: center;
+        background-color: rgb(147, 147, 148);
+        color: #f4f4f9;
+        padding: 20px;
+        width: fit-content;
+        margin: 20px auto;
+        border-radius: 35px;
+    }
+
+    .foto {
+        width: 150px;
+        height: 150px;
+        border-radius: 50%;
+    }
+
+    .section {
+        margin: 20px;
+    }
+
+    h2 {
+        background-color: rgb(147, 147, 148);
+        color: #f4f4f9;
+        padding: 8px 16px;
+        margin-bottom: 10px;
+        border-radius: 13px;
+    }
+
+    p {
+        margin: 8px 0;
+    }
